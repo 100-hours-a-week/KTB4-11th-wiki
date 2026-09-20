@@ -5,7 +5,7 @@ title: "[Daily Scrum] "
 labels:
   - Daily Scrum
 projects:
-  - KTB4-11th-project
+  - 100-hours-a-week/386
 assignees:
   - Jihyeon02
   - soyeong0115
